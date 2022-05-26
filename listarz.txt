@@ -1,1 +1,1 @@
-btc.doge.eth.shib.ada.kmd.vet
+btc.doge.eth.trx.shib.ada.kmd.vet
