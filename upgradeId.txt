@@ -1,1 +1,1 @@
-session_australia
+google_analytics
