@@ -1,1 +1,1 @@
-telegram_miniapp_launch
+welcome_to_ogames
