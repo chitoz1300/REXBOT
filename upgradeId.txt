@@ -1,1 +1,1 @@
-telegram_stars_integration
+telegram_miniapp_launch
